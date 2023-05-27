@@ -30,8 +30,18 @@
 - step-4: Add files or folders on your local repository.
           **Add or create files and folder here based on your work**
     ```
-    git add .    
+    git add . 
+
+    or
+
+    git add <filename>   
     ```
+    To remove a file or folder use rm 
+    ```
+    git rm <filename>
+
+    ```
+
 - step-5: Check the status of files.
     ```
     git status
